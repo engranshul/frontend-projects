@@ -1,3 +1,7 @@
+## some screenshots
+![Screenshot](/screenshots/itserviceswebpage.png)
+![Screenshot](/screenshots/restaurantwebpage.png)
+
 ## html css projects
 
 [itservices-webpage](https://github.com/engranshul/itservices-webpage)<br/>
