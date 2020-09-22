@@ -24,6 +24,10 @@
 [expense-tracker](https://github.com/engranshul/expense-tracker) <br/>
 [shopping-list](https://github.com/engranshul/shopping-list-ui-react-native) <br/>
 
+## automation testing java
+
+[spring-based-selenium-project](https://github.com/engranshul/spring-selenium-project) <br/>
+
 
 ## some screenshots
 ![Screenshot](/screenshots/itserviceswebpage.png)
