@@ -5,12 +5,9 @@
 
 ## html css typescript projects
 
-[maps-project](https://github.com/engranshul/maps-webapp-typescript)
-
-## typescript projects
-
 [sorting-designing](https://github.com/engranshul/sort-typescript)
 [data-parser](https://github.com/engranshul/stats)
+[maps-project](https://github.com/engranshul/maps-webapp-typescript)
 
 
 ## js testing libraries
@@ -20,6 +17,7 @@
 ## react projects
 
 [netflix-clone](https://github.com/engranshul/netflix-ui-clone)
+[voice-search-enabled-news-app](https://github.com/engranshul/voice-search-enabled-news-webapp)
 
 ## react native projects
 
