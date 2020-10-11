@@ -24,6 +24,10 @@
 [expense-tracker](https://github.com/engranshul/expense-tracker) <br/>
 [shopping-list](https://github.com/engranshul/shopping-list-ui-react-native) <br/>
 
+### material ui projects
+
+[coffee-shop](https://github.com/engranshul/shopping-page-material-ui) <br/>
+
 ### nodejs projects
 
 [url-shortner](https://github.com/engranshul/url-shortner) <br/>
@@ -40,4 +44,5 @@
 ![Screenshot](/screenshots/itserviceswebpage.png)
 ![Screenshot](/screenshots/restaurantwebpage.png)
 ![Screenshot](/screenshots/mapstypescript.png)
+![Screenshot](/screenshots/coffeeshopmaterialui.png)
 
