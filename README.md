@@ -26,7 +26,7 @@
 
 ### material ui projects
 
-[coffee-shop](https://github.com/engranshul/shopping-page-material-ui) <br/>
+[coffee-shop](https://github.com/engranshul/coffee-shop-material-ui) <br/>
 
 ### nodejs projects
 
