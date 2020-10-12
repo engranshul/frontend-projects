@@ -27,6 +27,7 @@
 ### material ui projects
 
 [coffee-shop](https://github.com/engranshul/coffee-shop-material-ui) <br/>
+[covid-tracker](https://github.com/engranshul/covid-tracker) <br/>
 
 ### nodejs projects
 
@@ -45,4 +46,5 @@
 ![Screenshot](/screenshots/restaurantwebpage.png)
 ![Screenshot](/screenshots/mapstypescript.png)
 ![Screenshot](/screenshots/coffeeshopmaterialui.png)
+![Screenshot](/screenshots/covidtracker.png)
 
