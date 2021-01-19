@@ -1,6 +1,6 @@
 ### Low level design projects
 
-[multithreaded-coffee-vending-machine](https://github.com/engranshul/coffee-vending-machinee)<br/>
+[multithreaded-coffee-vending-machine](https://github.com/engranshul/coffee-vending-machine)<br/>
 [cab-service](https://github.com/engranshul/cab-management-portal)
 
 ### html css projects
